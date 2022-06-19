@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactWebSocket.Web", "ReactWebSocket.Web\ReactWebSocket.Web.csproj", "{0D15E95D-60C6-4B28-93D3-36CB54B960FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactWebSocket.Data", "ReactWebSocket.Data\ReactWebSocket.Data.csproj", "{89E53837-0BA5-4A0F-A6DF-FE777076AF1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D15E95D-60C6-4B28-93D3-36CB54B960FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D15E95D-60C6-4B28-93D3-36CB54B960FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D15E95D-60C6-4B28-93D3-36CB54B960FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D15E95D-60C6-4B28-93D3-36CB54B960FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E53837-0BA5-4A0F-A6DF-FE777076AF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E53837-0BA5-4A0F-A6DF-FE777076AF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E53837-0BA5-4A0F-A6DF-FE777076AF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E53837-0BA5-4A0F-A6DF-FE777076AF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21DCA83B-42E3-4F5E-9896-89D8DB45ED63}
+	EndGlobalSection
+EndGlobal
